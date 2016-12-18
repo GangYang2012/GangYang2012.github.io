@@ -2,13 +2,13 @@
 # SEO settings
 title: "Play"
 title2: "ground" # default: ""
-description: "Just another minimalist Jekyll theme that focuses on technical writing."
+description: "My place to play with programming."
 keywords: "Jekyll, theme, blog, web, playground"
 url: https://gangyang2012.github.io # site url
 baseurl: null # apply repo name if use it under gh-pages branch
 # baseurl: null # apply null if repo name is something like username.github.io
 
-google_analytics: UA-XXXXX-XX
+google_analytics: UA-89098691-1
 repo: https://gangyang2012.github.io
 disqus_shortname: "gang"
 twitter_username: "GangYang"

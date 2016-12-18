@@ -17,7 +17,7 @@ for(int i = 0; i < n; i++) {
 	System.out.println(i);
 }
 ```
-```C#
+```csharp
 int n = 100;
 for(int i = 0; i < n; i++)
 {

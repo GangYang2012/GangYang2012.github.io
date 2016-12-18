@@ -1,17 +1,17 @@
 
 # SEO settings
-title: "Think"
-title2: "space" # default: ""
+title: "Play"
+title2: "ground" # default: ""
 description: "Just another minimalist Jekyll theme that focuses on technical writing."
-keywords: "Jekyll, theme, free, download, SEO, blog, web, minimalist, thinkspace"
-url: http://heiswayi.github.io/thinkspace # site url
-baseurl: "/thinkspace" # apply repo name if use it under gh-pages branch
+keywords: "Jekyll, theme, blog, web, playground"
+url: https://gangyang2012.github.io # site url
+baseurl: null # apply repo name if use it under gh-pages branch
 # baseurl: null # apply null if repo name is something like username.github.io
 
 google_analytics: UA-XXXXX-XX
-repo: http://github.com/heiswayi/thinkspace
-disqus_shortname: "heiswayi"
-twitter_username: "HeiswayiNrird"
+repo: https://gangyang2012.github.io
+disqus_shortname: "gang"
+twitter_username: "GangYang"
 comments: true 
 
 # Build settings
@@ -29,21 +29,21 @@ sass:
 
 # Author settings
 author:
-  name     : "Heiswayi Nrird"
+  name     : "Gang Yang"
   job      : "R&D Software Engineer"
-  bio      : "1+1=3 is always TRUE in my world, a balance between binary and reality."
+  bio      : "All web related skills, Java, C#, Database"
   thumb    : /images/author.jpg
-  email    : hnrird@gmail.com
-  url      : http://heiswayi.github.io
-  github   : http://github.com/heiswayi
-  twitter  : http://twitter.com/HeiswayiNrird
-  facebook : https://www.facebook.com/profile.php?id=1257583160
-  linkedin : http://linkedin.com/in/nrird
+  email    : gang.yang2012@gmail.com
+  url      : https://gangyang2012.github.io
+  github   : http://github.com/gangyang2012
+  twitter  : http://twitter.com/GangY2013
+  facebook : https://www.facebook.com/gang.yang2012
+  linkedin : https://linkedin.com/in/gang-yang-06453783
 
 # social settings
 og_locale: "en_US"
 twitter_card: "summary_large_image"
-twitter_site: "@HeiswayiNrird"
+twitter_site: "@GangY2013"
 
 gems:
   - bourbon

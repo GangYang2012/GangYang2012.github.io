@@ -11,7 +11,7 @@ keywords: "first"
 Really have fun to play with this theme.
 
 ## Paste some code
-```Java
+```java
 int n = 100;
 for(int i = 0; i < n; i++) {
 	System.out.println(i);
